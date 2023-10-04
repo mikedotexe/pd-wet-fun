@@ -1,0 +1,7 @@
+name=Wet Fun
+author=Mike Purvis
+description=Yes, it's a great name for a game.
+bundleID=com.mikedotexe.WetFun
+version=1.0
+buildNumber=100
+imagePath=SystemAssets
